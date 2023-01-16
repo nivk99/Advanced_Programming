@@ -1,1 +1,3 @@
-# advanced-programmingThis is an assignment in an advanced programming course
+# advanced-programming
+
+Assignments in an advanced programming course
